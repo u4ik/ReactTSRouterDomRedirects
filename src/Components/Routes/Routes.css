@@ -1,0 +1,103 @@
+.routeButtons {
+    margin-bottom: 5%;
+    background-color: rgb(67, 145, 172) !important;
+    color: white;
+    border: solid 1px black;
+    opacity: .7;
+    filter: drop-shadow(2px 2px 2px black);
+    outline: 'none';
+    user-select: none;
+    padding-left: 2%;
+    font-family: 'Nunito-Regular' !important;
+    border-width: 3px;
+    outline: none;
+    border-radius: 10px;
+    border-color: black;
+    font-size: 1.2rem;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 2%;
+    text-shadow: .5px .5px .5px grey;
+    margin: 2%;
+}
+
+.routeButtonsRed {
+    margin-bottom: 5%;
+    background-color: rgb(187, 58, 41) !important;
+    color: white;
+    border: solid 1px black;
+    opacity: .7;
+    filter: drop-shadow(2px 2px 2px black);
+    outline: 'none';
+    user-select: none;
+    padding-left: 2%;
+    font-family: 'Nunito-Regular' !important;
+    border-width: 3px;
+    outline: none;
+    border-radius: 10px;
+    border-color: black;
+    font-size: 1.2rem;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 2%;
+    text-shadow: .5px .5px .5px grey;
+    margin: 2%;
+}
+
+.routeButtons:hover {
+    transform: scale(1.1);
+    opacity: 1;
+    transition-duration: .5s;
+    background-color: lightgrey;
+    color: white;
+    filter: drop-shadow(4px 4px 4px black);
+    outline: 'none';
+    text-shadow: .5px .5px .5px black;
+}
+
+.backButtons {
+    margin-bottom: 5%;
+    background-color: rgb(60, 165, 86) !important;
+    color: white;
+    border: solid 1px black;
+    opacity: .7;
+    filter: drop-shadow(2px 2px 2px black);
+    outline: 'none';
+    user-select: none;
+    padding-left: 2%;
+    font-family: 'Nunito-Regular' !important;
+    border-width: 3px;
+    outline: none;
+    border-radius: 10px;
+    border-color: black;
+    font-size: 1.2rem;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 2%;
+    text-shadow: .5px .5px .5px grey;
+    margin: 5%;
+    width: 9%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.backButtons:hover {
+    transform: scale(1.1);
+    opacity: 1;
+    transition-duration: .5s;
+    background-color: lightgrey;
+    color: white;
+    filter: drop-shadow(4px 4px 4px black);
+    outline: 'none';
+    text-shadow: .5px .5px .5px black;
+}
+
+.routeImgs {
+    width: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 20%;
+    filter: drop-shadow(5px 5px 5px black);
+    margin-left: auto;
+    margin-right: auto;
+}
